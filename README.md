@@ -39,7 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayTheCoder77&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayTheCoder77&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
@@ -51,8 +50,8 @@
 
 ### 🧠 Currently Learning
 
-- ✨ Next.js & ShadCN UI
-- 🤖 Advanced Machine Learning (Andrew Ng Specialization)
+- ✨ PostgreSql & DevOps
+- 🤖 Advanced Machine Learning And Deep Learning
 - 🔐 Full-stack security & DevOps (JWT, Docker, CI/CD)
 
 ---
@@ -60,8 +59,8 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/jayant-iyer](https://www.linkedin.com/in/jayant-iyer-156a27297/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:jayantiyer90@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="(https://www.linkedin.com/in/jayant-iyer-156a27297/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="jayantiyer90@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://x.com/JV2077" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
 </p>
 
