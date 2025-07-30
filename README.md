@@ -39,10 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayTheCoder77&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayTheCoder77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
